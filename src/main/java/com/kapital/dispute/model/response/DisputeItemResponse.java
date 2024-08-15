@@ -149,5 +149,246 @@ public record DisputeItemResponse(String status, List<Dispute> disputeItems) {
 //////    git commit -m "Add pre-push hook and setup script"
 //////    git push origin <your-branch    git add hooks setup-hook
 
+    //////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branchgit add hooks setup-hooks.sh
+//////    git commit -m "Add pre-push hook and setup script"
+//////    git push origin <your-branch    git add hooks setup-hook//////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook//////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook//////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook//////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branchgit add hooks setup-hooks.sh
+////////    git commit -m "Add pre-push hook and setup script"
+////////    git push origin <your-branch    git add hooks setup-hook
 }
 
